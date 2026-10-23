@@ -1,4 +1,4 @@
-# neon-arcade — Components
+# ArcadeNeon — Components
 
 Single-file static web app: a neon-themed retro arcade landing/game page.
 **No build system, no services, no external libraries.**
